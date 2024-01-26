@@ -5,3 +5,7 @@
 5. git push [rep_link] [branch_name]
 
 
+master
+develop 
+feature/main-page
+feature/about-company 
